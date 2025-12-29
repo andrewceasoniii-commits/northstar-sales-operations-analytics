@@ -1,0 +1,6 @@
+product_id,product_name,category,launch_year,price,cost
+P01,Northstar Insights,SaaS Subscription,2019,1200,350
+P02,Northstar Forecast,SaaS Add-On,2020,800,220
+P03,Implementation Package,Services,2018,5000,2500
+P04,Advanced Analytics Module,SaaS Add-On,2022,1500,450
+P05,Enterprise Support Add-On,SaaS Add-On,2023,650,180

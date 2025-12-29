@@ -1,0 +1,421 @@
+customer_id,company_name,industry,region_id,city,employee_size,created_date,churn_date,status
+C1063,Silverline Education Services,Healthcare,R03,Dallas,1000,2020-01-04,,Active
+C1002,Gateway Systems,Education,R03,Atlanta,500,2020-01-05,,Active
+C1061,Capstone Industries,Retail,R04,San Francisco,750,2020-01-10,,Active
+C1101,Prairie Manufacturing,Utilities,R04,Los Angeles,750,2020-01-10,,Active
+C1127,Capstone Partners,Construction,R03,Houston,200,2020-01-14,,Active
+C1160,BluePeak Partners,Education,R04,Seattle,250,2020-01-15,,Active
+C1093,Lakeside Retail Group,Manufacturing,R01,Minneapolis,100,2020-01-20,2022-01-27,Churned
+C1033,Beacon Partners,Transportation,R01,Minneapolis,1500,2020-01-22,2021-12-28,Churned
+C1131,Horizon Holdings,Education,R01,Minneapolis,150,2020-01-28,,Active
+C1065,MidStates Manufacturing,Utilities,R02,Pittsburgh,250,2020-02-02,,Active
+C1123,Summit Health,Technology,R01,Kansas City,150,2020-02-03,,Active
+C1001,Beacon Health,Transportation,R02,New York,75,2020-02-04,,Active
+C1149,Atlas Industries,Manufacturing,R02,Newark,150,2020-02-07,,Active
+C1115,Evergreen Construction,Nonprofit,R03,Dallas,500,2020-02-20,,Active
+C1013,Redwood Retail Group,Transportation,R01,St. Louis,350,2020-02-21,,Active
+C1004,BrightPath Energy,Utilities,R03,Charlotte,350,2020-02-21,,Active
+C1078,Crescent Tech,Utilities,R04,San Francisco,500,2020-02-22,,Active
+C1106,Silverline Solutions,Manufacturing,R04,Phoenix,750,2020-02-22,,Active
+C1110,Redwood Energy,Technology,R04,Los Angeles,75,2020-02-23,,Active
+C1048,SunCore Partners,Finance,R01,Minneapolis,50,2020-02-27,,Active
+C1152,Atlas Manufacturing,Technology,R04,Phoenix,75,2020-02-29,,Active
+C1103,BrightPath Industries,Manufacturing,R02,Newark,750,2020-03-03,,Active
+C1102,BrightPath Logistics,Utilities,R02,Boston,1500,2020-03-05,2022-06-21,Churned
+C1112,Cedar Systems,Healthcare,R04,San Diego,1000,2020-03-06,,Active
+C1133,Cobalt Education Services,Healthcare,R02,Pittsburgh,350,2020-03-08,,Active
+C1085,Granite Logistics,Finance,R03,Atlanta,250,2020-03-10,,Active
+C1076,SunCore Education Services,Retail,R02,Philadelphia,1000,2020-03-16,2020-10-07,Churned
+C1107,SunCore Supply,Retail,R01,Minneapolis,150,2020-03-18,2022-12-12,Churned
+C1100,Pinecrest Industries,Technology,R02,Boston,250,2020-03-22,2022-05-15,Churned
+C1058,Summit Education Services,Utilities,R01,St. Louis,75,2020-03-26,,Active
+C1068,Cobalt Industries,Education,R02,Pittsburgh,150,2020-03-30,,Active
+C1120,BrightPath Partners,Transportation,R04,Seattle,350,2020-04-02,,Active
+C1059,Crescent Health,Nonprofit,R04,San Francisco,350,2020-04-03,,Active
+C1166,Northbridge Solutions,Nonprofit,R03,Atlanta,250,2020-04-04,,Active
+C1072,Metro Logistics,Utilities,R02,Pittsburgh,1000,2020-04-05,,Active
+C1104,Capstone Health,Utilities,R01,Minneapolis,75,2020-04-07,,Active
+C1018,Crescent Supply,Manufacturing,R03,Dallas,250,2020-04-07,,Active
+C1037,Metro Manufacturing,Manufacturing,R03,New Orleans,1000,2020-04-08,,Active
+C1049,Beacon Energy,Utilities,R02,Pittsburgh,500,2020-04-10,,Active
+C1014,Highland Holdings,Manufacturing,R01,Kansas City,50,2020-04-10,,Active
+C1169,Northbridge Partners,Construction,R02,Pittsburgh,350,2020-04-13,,Active
+C1125,Crescent Holdings,Nonprofit,R04,Denver,75,2020-04-16,,Active
+C1134,Granite Solutions,Construction,R03,Dallas,250,2020-04-20,,Active
+C1129,Prairie Education Services,Healthcare,R04,San Francisco,500,2020-04-20,,Active
+C1111,Lakeside Education Services,Utilities,R02,Newark,200,2020-04-21,2021-11-27,Churned
+C1028,Pinecrest Partners,Retail,R01,Minneapolis,750,2020-04-22,,Active
+C1055,Metro Supply,Utilities,R03,Dallas,350,2020-04-27,2021-06-12,Churned
+C1141,MidStates Education Services,Transportation,R01,Minneapolis,100,2020-04-27,,Active
+C1052,Crescent Industries,Education,R01,Kansas City,200,2020-04-29,,Active
+C1163,BluePeak Tech,Retail,R03,Charlotte,75,2020-05-02,,Active
+C1019,Gateway Supply,Transportation,R02,Pittsburgh,350,2020-05-03,2022-04-15,Churned
+C1016,Cobalt Retail Group,Finance,R01,Indianapolis,250,2020-05-05,,Active
+C1132,Cobalt Financial,Retail,R01,St. Louis,750,2020-05-05,,Active
+C1032,Redwood Manufacturing,Transportation,R03,New Orleans,75,2020-05-07,,Active
+C1054,Northbridge Financial,Healthcare,R01,Minneapolis,100,2020-05-08,,Active
+C1015,Highland Tech,Manufacturing,R02,New York,50,2020-05-09,,Active
+C1007,Redwood Health,Retail,R02,Hartford,100,2020-05-13,,Active
+C1159,Oakline Retail Group,Nonprofit,R02,Pittsburgh,500,2020-05-13,2022-03-28,Churned
+C1168,Capstone Retail Group,Nonprofit,R02,Newark,200,2020-05-13,,Active
+C1097,Gateway Partners,Utilities,R02,New York,250,2020-05-15,,Active
+C1151,Atlas Logistics,Manufacturing,R01,Minneapolis,200,2020-05-16,,Active
+C1147,Metro Solutions,Healthcare,R04,Denver,150,2020-05-17,2021-05-10,Churned
+C1087,Cedar Manufacturing,Retail,R02,Pittsburgh,250,2020-05-20,,Active
+C1145,BluePeak Holdings,Retail,R01,Milwaukee,250,2020-05-21,2021-03-28,Churned
+C1094,MidStates Financial,Finance,R02,Philadelphia,350,2020-05-22,,Active
+C1005,Cedar Health,Education,R03,Atlanta,100,2020-05-22,,Active
+C1077,Atlas Partners,Technology,R02,Pittsburgh,150,2020-05-23,,Active
+C1095,Metro Energy,Nonprofit,R03,New Orleans,1000,2020-05-23,,Active
+C1024,Metro Financial,Manufacturing,R04,San Francisco,250,2020-05-23,,Active
+C1051,Granite Education Services,Transportation,R04,Los Angeles,250,2020-05-23,2024-12-06,Churned
+C1084,Cobalt Energy,Retail,R04,Denver,1500,2020-05-24,,Active
+C1021,Highland Education Services,Manufacturing,R03,Houston,100,2020-05-27,,Active
+C1118,Summit Logistics,Finance,R01,Indianapolis,100,2020-05-30,,Active
+C1023,MidStates Retail Group,Education,R02,Pittsburgh,350,2020-05-30,,Active
+C1027,Pinecrest Solutions,Retail,R02,Philadelphia,750,2020-05-31,,Active
+C1047,Northbridge Holdings,Finance,R01,Kansas City,1500,2020-06-01,,Active
+C1157,Redwood Holdings,Healthcare,R02,Hartford,200,2020-06-01,,Active
+C1096,Evergreen Industries,Retail,R02,Boston,100,2020-06-04,,Active
+C1161,Silverline Tech,Utilities,R01,Chicago,150,2020-06-05,,Active
+C1165,Lakeside Health,Healthcare,R01,Chicago,500,2020-06-05,,Active
+C1064,Beacon Construction,Healthcare,R04,Seattle,250,2020-06-08,,Active
+C1012,Lakeside Logistics,Manufacturing,R02,Hartford,350,2020-06-08,2021-11-17,Churned
+C1031,Horizon Industries,Retail,R01,Chicago,250,2020-06-09,,Active
+C1039,BrightPath Solutions,Technology,R02,Boston,100,2020-06-09,,Active
+C1011,BrightPath Tech,Construction,R03,Atlanta,150,2020-06-13,,Active
+C1043,Pinecrest Energy,Technology,R04,Phoenix,500,2020-06-18,2022-06-07,Churned
+C1170,Summit Industries,Retail,R04,Phoenix,250,2020-06-19,,Active
+C1036,Northbridge Retail Group,Utilities,R04,San Diego,1000,2020-06-20,,Active
+C1091,Beacon Manufacturing,Utilities,R04,San Diego,50,2020-06-21,,Active
+C1038,SunCore Solutions,Retail,R03,Charlotte,1500,2020-06-29,2023-02-05,Churned
+C1073,Horizon Energy,Technology,R03,New Orleans,500,2020-07-01,,Active
+C1079,Gateway Holdings,Utilities,R01,Chicago,250,2020-07-04,,Active
+C1075,Cobalt Partners,Technology,R01,Chicago,50,2020-07-05,,Active
+C1071,Silverline Health,Retail,R03,Houston,500,2020-07-10,,Active
+C1142,Riverbend Manufacturing,Transportation,R03,Charlotte,250,2020-07-12,,Active
+C1105,SunCore Systems,Utilities,R04,Phoenix,1500,2020-07-15,,Active
+C1086,Cedar Industries,Transportation,R04,Phoenix,75,2020-07-20,,Active
+C1017,Granite Partners,Finance,R02,Newark,150,2020-07-21,,Active
+C1003,Crescent Retail Group,Transportation,R02,New York,50,2020-07-25,,Active
+C1099,Gateway Health,Transportation,R03,Charlotte,150,2020-07-30,2024-12-25,Churned
+C1144,SunCore Construction,Manufacturing,R02,Boston,150,2020-07-30,2021-04-11,Churned
+C1092,Beacon Tech,Transportation,R04,Seattle,75,2020-07-31,,Active
+C1080,Northbridge Industries,Technology,R02,Boston,350,2020-08-02,,Active
+C1164,Riverbend Health,Construction,R03,Charlotte,250,2020-08-03,,Active
+C1070,MidStates Tech,Nonprofit,R04,Phoenix,150,2020-08-04,,Active
+C1140,Redwood Construction,Retail,R04,San Diego,250,2020-08-10,,Active
+C1040,Horizon Education Services,Construction,R04,San Francisco,1000,2020-08-10,,Active
+C1009,BluePeak Logistics,Technology,R01,Indianapolis,350,2020-08-12,2022-09-09,Churned
+C1029,BluePeak Systems,Technology,R02,Newark,1000,2020-08-14,,Active
+C1098,Summit Construction,Manufacturing,R04,Los Angeles,350,2020-08-15,,Active
+C1053,Beacon Systems,Technology,R01,Indianapolis,75,2020-08-16,2023-06-15,Churned
+C1026,Atlas Health,Transportation,R02,Pittsburgh,500,2020-08-20,,Active
+C1010,SunCore Retail Group,Technology,R02,Hartford,100,2020-08-20,,Active
+C1135,Cedar Logistics,Finance,R01,Indianapolis,150,2020-08-23,,Active
+C1155,Cobalt Systems,Construction,R03,New Orleans,350,2020-08-24,,Active
+C1067,Cedar Partners,Construction,R03,Charlotte,75,2020-08-29,,Active
+C1006,Northbridge Systems,Technology,R01,Milwaukee,1000,2020-08-30,,Active
+C1139,Ironclad Retail Group,Utilities,R01,Indianapolis,50,2020-09-03,,Active
+C1124,Evergreen Retail Group,Construction,R02,Hartford,350,2020-09-05,,Active
+C1062,Highland Financial,Construction,R04,Phoenix,250,2020-09-06,,Active
+C1109,Northbridge Construction,Healthcare,R02,Pittsburgh,500,2020-09-06,2021-09-14,Churned
+C1020,Prairie Energy,Transportation,R03,Atlanta,50,2020-09-08,,Active
+C1081,Redwood Supply,Construction,R04,San Francisco,200,2020-09-09,,Active
+C1126,Silverline Retail Group,Retail,R01,Minneapolis,250,2020-09-13,,Active
+C1146,Redwood Solutions,Nonprofit,R01,Milwaukee,150,2020-09-15,,Active
+C1117,BrightPath Health,Transportation,R02,New York,150,2020-09-18,,Active
+C1050,Redwood Systems,Transportation,R01,Indianapolis,250,2020-09-18,2024-06-14,Churned
+C1034,Ironclad Systems,Manufacturing,R03,Nashville,500,2020-09-20,,Active
+C1045,Ironclad Holdings,Transportation,R03,Nashville,500,2020-09-20,,Active
+C1153,Prairie Supply,Utilities,R04,Phoenix,750,2020-09-26,2022-03-06,Churned
+C1056,BluePeak Retail Group,Utilities,R02,Hartford,350,2020-09-28,2023-11-02,Churned
+C1074,Prairie Holdings,Technology,R02,Hartford,250,2020-09-29,,Active
+C1042,Beacon Solutions,Finance,R04,Phoenix,75,2020-09-29,,Active
+C1121,Beacon Logistics,Finance,R01,Milwaukee,150,2020-10-03,,Active
+C1136,BluePeak Education Services,Finance,R03,Charlotte,150,2020-10-08,,Active
+C1167,BrightPath Education Services,Nonprofit,R02,Hartford,100,2020-10-09,,Active
+C1082,Beacon Financial,Utilities,R03,New Orleans,75,2020-10-09,,Active
+C1156,Cedar Supply,Education,R02,New York,150,2020-10-14,,Active
+C1041,Crescent Construction,Nonprofit,R03,Houston,150,2020-10-14,,Active
+C1108,MidStates Energy,Education,R01,Kansas City,150,2020-10-14,,Active
+C1137,Cedar Financial,Finance,R01,Indianapolis,100,2020-10-15,2024-04-27,Churned
+C1162,Evergreen Energy,Nonprofit,R01,Milwaukee,250,2020-10-15,,Active
+C1130,Ironclad Health,Technology,R02,Newark,150,2020-10-20,,Active
+C1143,Granite Retail Group,Retail,R01,Chicago,1500,2020-10-26,,Active
+C1025,Horizon Health,Education,R04,Los Angeles,250,2020-10-30,2024-11-03,Churned
+C1113,Oakline Education Services,Transportation,R03,Houston,200,2020-11-01,2021-11-29,Churned
+C1114,Pinecrest Construction,Education,R02,Boston,200,2020-11-03,,Active
+C1158,Highland Construction,Transportation,R04,San Diego,350,2020-11-04,,Active
+C1090,Horizon Solutions,Nonprofit,R02,Pittsburgh,200,2020-11-07,,Active
+C1069,Pinecrest Retail Group,Construction,R03,Nashville,350,2020-11-09,,Active
+C1044,Pinecrest Financial,Retail,R02,New York,250,2020-11-11,,Active
+C1035,SunCore Logistics,Manufacturing,R02,New York,250,2020-11-12,2022-12-04,Churned
+C1088,Evergreen Supply,Transportation,R04,Phoenix,500,2020-11-12,,Active
+C1150,BluePeak Energy,Utilities,R03,Atlanta,200,2020-11-13,2023-06-30,Churned
+C1148,Cobalt Construction,Technology,R01,Chicago,50,2020-11-16,,Active
+C1066,Cedar Tech,Healthcare,R04,Phoenix,350,2020-11-18,,Active
+C1122,BluePeak Solutions,Nonprofit,R01,Minneapolis,200,2020-11-21,,Active
+C1116,Horizon Retail Group,Utilities,R03,Houston,75,2020-11-25,2022-02-09,Churned
+C1008,Capstone Education Services,Technology,R02,Hartford,75,2020-11-26,2023-05-24,Churned
+C1154,Granite Manufacturing,Retail,R03,Dallas,250,2020-12-04,,Active
+C1083,Horizon Manufacturing,Finance,R03,Nashville,750,2020-12-04,,Active
+C1060,Ironclad Industries,Utilities,R02,Boston,100,2020-12-06,,Active
+C1089,Riverbend Tech,Manufacturing,R04,Los Angeles,200,2020-12-13,,Active
+C1057,BluePeak Supply,Transportation,R02,Newark,150,2020-12-14,,Active
+C1138,Prairie Solutions,Construction,R01,St. Louis,150,2020-12-15,,Active
+C1046,Crescent Systems,Finance,R01,Chicago,250,2020-12-19,,Active
+C1022,Summit Manufacturing,Technology,R01,Kansas City,150,2020-12-25,,Active
+C1119,Capstone Tech,Transportation,R03,Atlanta,200,2020-12-25,,Active
+C1128,Prairie Construction,Transportation,R01,Chicago,100,2020-12-30,2022-04-06,Churned
+C1030,Granite Tech,Technology,R02,Pittsburgh,350,2020-12-31,,Active
+C1228,Riverbend Partners,Healthcare,R04,Los Angeles,150,2021-01-04,2022-06-29,Churned
+C1194,Highland Industries,Utilities,R03,Atlanta,500,2021-01-07,2022-09-19,Churned
+C1189,Beacon Education Services,Construction,R01,Chicago,100,2021-01-08,,Active
+C1201,Cobalt Logistics,Technology,R03,Dallas,350,2021-01-14,2021-10-13,Churned
+C1229,Atlas Tech,Healthcare,R02,Philadelphia,750,2021-01-16,,Active
+C1205,Highland Health,Education,R02,Newark,250,2021-01-17,,Active
+C1219,Prairie Tech,Construction,R04,Seattle,200,2021-01-17,,Active
+C1203,Cobalt Supply,Finance,R01,Kansas City,150,2021-01-29,,Active
+C1217,Evergreen Health,Transportation,R01,Minneapolis,75,2021-02-08,2023-08-29,Churned
+C1180,BrightPath Financial,Manufacturing,R01,Indianapolis,1500,2021-02-18,,Active
+C1191,Gateway Financial,Healthcare,R03,Atlanta,100,2021-02-20,,Active
+C1172,Crescent Education Services,Finance,R03,Atlanta,1000,2021-02-20,,Active
+C1187,Silverline Manufacturing,Nonprofit,R04,Seattle,200,2021-02-24,,Active
+C1209,BrightPath Retail Group,Manufacturing,R02,Philadelphia,1000,2021-03-05,2024-01-15,Churned
+C1213,Redwood Financial,Retail,R02,Philadelphia,150,2021-03-10,,Active
+C1192,Riverbend Systems,Retail,R04,Denver,350,2021-04-06,,Active
+C1218,Gateway Tech,Manufacturing,R03,Charlotte,200,2021-04-12,,Active
+C1225,Oakline Holdings,Transportation,R01,Indianapolis,250,2021-04-13,,Active
+C1195,BluePeak Manufacturing,Healthcare,R01,Kansas City,250,2021-04-22,,Active
+C1181,Oakline Energy,Construction,R04,Los Angeles,250,2021-04-28,,Active
+C1197,Pinecrest Supply,Finance,R01,Minneapolis,350,2021-04-29,,Active
+C1204,BrightPath Manufacturing,Finance,R01,Kansas City,250,2021-05-08,,Active
+C1216,Prairie Financial,Nonprofit,R02,New York,350,2021-05-09,,Active
+C1178,Crescent Energy,Utilities,R03,Dallas,100,2021-06-01,,Active
+C1215,Pinecrest Systems,Construction,R02,New York,150,2021-06-03,,Active
+C1188,BluePeak Health,Healthcare,R02,Newark,50,2021-06-11,,Active
+C1193,Redwood Logistics,Education,R01,Kansas City,200,2021-06-14,2022-05-01,Churned
+C1207,Ironclad Solutions,Utilities,R01,Kansas City,350,2021-06-17,2024-01-01,Churned
+C1230,Gateway Manufacturing,Healthcare,R04,Seattle,50,2021-06-19,,Active
+C1208,Oakline Solutions,Nonprofit,R04,San Diego,200,2021-06-22,,Active
+C1185,Horizon Systems,Manufacturing,R02,Boston,250,2021-06-24,,Active
+C1224,Oakline Tech,Healthcare,R01,Minneapolis,200,2021-06-25,,Active
+C1179,SunCore Industries,Nonprofit,R04,Denver,150,2021-06-26,,Active
+C1210,Ironclad Education Services,Utilities,R03,Atlanta,150,2021-06-30,2023-10-10,Churned
+C1227,Cobalt Holdings,Construction,R02,New York,250,2021-07-02,,Active
+C1226,Atlas Systems,Construction,R02,Boston,750,2021-07-07,,Active
+C1221,SunCore Holdings,Nonprofit,R04,Los Angeles,1000,2021-07-17,2023-12-14,Churned
+C1177,Ironclad Tech,Transportation,R02,Hartford,1000,2021-07-29,,Active
+C1183,Evergreen Logistics,Manufacturing,R02,Newark,200,2021-07-30,,Active
+C1200,Riverbend Supply,Transportation,R04,Los Angeles,200,2021-08-03,2024-10-23,Churned
+C1186,Crescent Manufacturing,Manufacturing,R03,Charlotte,100,2021-08-10,,Active
+C1198,Redwood Industries,Nonprofit,R04,San Diego,100,2021-08-14,,Active
+C1214,Capstone Manufacturing,Healthcare,R04,Los Angeles,750,2021-08-15,,Active
+C1202,Summit Supply,Nonprofit,R03,Houston,200,2021-09-03,,Active
+C1190,Crescent Logistics,Utilities,R01,Chicago,75,2021-09-12,,Active
+C1173,MidStates Holdings,Retail,R01,Minneapolis,1500,2021-09-14,,Active
+C1220,Pinecrest Education Services,Utilities,R03,New Orleans,500,2021-09-21,,Active
+C1223,Summit Holdings,Utilities,R03,Dallas,1000,2021-10-09,,Active
+C1184,Northbridge Health,Manufacturing,R04,San Diego,250,2021-10-13,,Active
+C1176,SunCore Tech,Finance,R02,Boston,250,2021-10-18,,Active
+C1171,Summit Retail Group,Nonprofit,R03,Dallas,100,2021-10-20,2022-06-05,Churned
+C1211,Crescent Financial,Education,R02,Philadelphia,1000,2021-10-23,,Active
+C1196,BluePeak Industries,Healthcare,R03,Atlanta,150,2021-10-30,,Active
+C1175,Metro Industries,Utilities,R02,Boston,500,2021-11-05,,Active
+C1212,Atlas Holdings,Finance,R02,Hartford,350,2021-11-06,2023-03-02,Churned
+C1174,Granite Financial,Transportation,R02,Newark,150,2021-11-09,,Active
+C1182,Oakline Partners,Education,R03,Atlanta,75,2021-11-23,,Active
+C1206,Atlas Solutions,Finance,R01,Chicago,150,2021-12-28,,Active
+C1199,Cedar Energy,Construction,R01,Chicago,750,2021-12-30,2024-11-24,Churned
+C1222,Summit Partners,Education,R03,Dallas,50,2021-12-31,,Active
+C1242,Gateway Logistics,Manufacturing,R01,St. Louis,1500,2022-01-05,,Active
+C1274,Cobalt Manufacturing,Manufacturing,R03,Dallas,100,2022-01-15,,Active
+C1272,Ironclad Construction,Retail,R04,San Diego,750,2022-01-21,,Active
+C1296,BrightPath Systems,Education,R04,San Diego,100,2022-01-25,,Active
+C1271,Atlas Financial,Construction,R04,Denver,1500,2022-01-27,,Active
+C1247,Horizon Supply,Nonprofit,R04,Los Angeles,1000,2022-01-29,,Active
+C1300,Ironclad Financial,Manufacturing,R01,Indianapolis,200,2022-02-04,,Active
+C1250,Evergreen Tech,Utilities,R01,Milwaukee,350,2022-02-06,,Active
+C1249,MidStates Supply,Nonprofit,R01,Kansas City,500,2022-02-07,,Active
+C1231,Granite Construction,Manufacturing,R01,Milwaukee,50,2022-02-08,,Active
+C1248,Horizon Construction,Healthcare,R04,Denver,500,2022-02-09,2023-02-13,Churned
+C1278,Granite Systems,Education,R02,New York,50,2022-02-15,2022-12-27,Churned
+C1254,Beacon Retail Group,Technology,R01,Milwaukee,150,2022-02-28,,Active
+C1281,Atlas Education Services,Healthcare,R02,Hartford,50,2022-03-05,,Active
+C1234,Prairie Systems,Construction,R01,Minneapolis,75,2022-03-06,,Active
+C1236,SunCore Manufacturing,Retail,R01,Indianapolis,200,2022-03-14,,Active
+C1268,Capstone Holdings,Education,R04,San Francisco,150,2022-03-20,2024-03-23,Churned
+C1251,Lakeside Financial,Transportation,R01,Kansas City,750,2022-03-22,,Active
+C1243,BrightPath Construction,Nonprofit,R03,Atlanta,250,2022-04-09,,Active
+C1293,Northbridge Education Services,Retail,R04,Denver,75,2022-04-21,,Active
+C1288,Cobalt Solutions,Finance,R02,Boston,150,2022-04-26,,Active
+C1276,Gateway Retail Group,Healthcare,R01,Indianapolis,100,2022-05-25,,Active
+C1273,Summit Financial,Manufacturing,R01,Kansas City,1500,2022-05-27,,Active
+C1270,Granite Energy,Retail,R01,Minneapolis,750,2022-06-06,,Active
+C1285,Prairie Logistics,Retail,R01,St. Louis,250,2022-06-09,,Active
+C1257,Metro Partners,Healthcare,R02,Pittsburgh,500,2022-06-09,,Active
+C1261,Cobalt Tech,Education,R01,Kansas City,150,2022-06-12,,Active
+C1255,Highland Energy,Education,R01,Milwaukee,350,2022-06-19,,Active
+C1289,Beacon Industries,Nonprofit,R03,Nashville,750,2022-06-23,,Active
+C1244,Lakeside Solutions,Transportation,R02,Philadelphia,1500,2022-06-27,,Active
+C1237,Evergreen Holdings,Finance,R04,San Diego,500,2022-07-06,,Active
+C1265,Riverbend Solutions,Healthcare,R01,Kansas City,75,2022-07-12,,Active
+C1277,MidStates Construction,Utilities,R03,Nashville,75,2022-07-18,,Active
+C1286,Pinecrest Tech,Manufacturing,R04,San Francisco,1000,2022-07-21,,Active
+C1292,Metro Construction,Retail,R04,San Diego,350,2022-07-23,,Active
+C1284,Prairie Partners,Technology,R03,New Orleans,100,2022-08-02,,Active
+C1253,Silverline Construction,Manufacturing,R04,Seattle,350,2022-08-04,,Active
+C1241,Ironclad Energy,Construction,R01,Minneapolis,1000,2022-08-06,,Active
+C1264,Northbridge Supply,Manufacturing,R01,Kansas City,500,2022-08-07,,Active
+C1259,Atlas Construction,Technology,R01,St. Louis,150,2022-08-12,,Active
+C1287,Pinecrest Health,Manufacturing,R01,Milwaukee,150,2022-08-13,,Active
+C1269,MidStates Solutions,Technology,R04,Phoenix,200,2022-08-14,,Active
+C1267,MidStates Partners,Manufacturing,R03,New Orleans,200,2022-08-15,,Active
+C1262,Lakeside Industries,Utilities,R04,Phoenix,150,2022-08-21,,Active
+C1256,Highland Retail Group,Education,R04,San Francisco,200,2022-08-23,,Active
+C1279,Lakeside Partners,Technology,R01,Indianapolis,250,2022-08-24,,Active
+C1233,Silverline Supply,Education,R02,Pittsburgh,75,2022-08-27,,Active
+C1240,BrightPath Supply,Healthcare,R02,New York,100,2022-08-31,,Active
+C1258,Highland Logistics,Education,R04,San Francisco,250,2022-09-15,2024-04-20,Churned
+C1239,Northbridge Manufacturing,Finance,R01,Milwaukee,1000,2022-09-17,,Active
+C1291,Prairie Industries,Technology,R03,Houston,350,2022-09-19,,Active
+C1245,Metro Health,Technology,R01,Indianapolis,250,2022-09-26,,Active
+C1266,Granite Industries,Retail,R04,Seattle,1500,2022-09-27,,Active
+C1263,Gateway Education Services,Healthcare,R04,Denver,350,2022-10-05,,Active
+C1275,Metro Holdings,Construction,R02,Pittsburgh,750,2022-10-07,,Active
+C1298,Granite Supply,Finance,R03,Charlotte,350,2022-10-27,,Active
+C1283,Prairie Health,Technology,R03,Atlanta,1000,2022-10-28,,Active
+C1290,Crescent Partners,Finance,R04,Los Angeles,75,2022-11-01,,Active
+C1294,Summit Energy,Technology,R04,Denver,250,2022-11-10,,Active
+C1232,Granite Holdings,Construction,R02,Pittsburgh,350,2022-11-14,,Active
+C1280,Horizon Partners,Healthcare,R03,Atlanta,150,2022-11-15,,Active
+C1282,Highland Solutions,Finance,R02,Philadelphia,1500,2022-11-16,2024-04-19,Churned
+C1252,Evergreen Education Services,Manufacturing,R02,Hartford,350,2022-11-19,,Active
+C1235,Riverbend Holdings,Manufacturing,R03,Charlotte,250,2022-11-20,,Active
+C1238,Metro Retail Group,Technology,R02,Pittsburgh,350,2022-12-10,,Active
+C1299,Redwood Tech,Nonprofit,R02,Philadelphia,250,2022-12-18,,Active
+C1297,Silverline Holdings,Utilities,R03,Atlanta,750,2022-12-22,2024-05-02,Churned
+C1246,Gateway Industries,Transportation,R01,Chicago,750,2022-12-23,,Active
+C1260,Oakline Supply,Construction,R01,Milwaukee,350,2022-12-26,,Active
+C1295,Lakeside Systems,Education,R02,Pittsburgh,500,2022-12-28,,Active
+C1329,Cobalt Health,Utilities,R01,Milwaukee,350,2023-01-01,,Active
+C1315,Highland Manufacturing,Technology,R01,Chicago,150,2023-01-01,,Active
+C1308,Northbridge Logistics,Utilities,R04,San Diego,100,2023-01-14,,Active
+C1346,Beacon Holdings,Construction,R04,San Francisco,250,2023-01-27,,Active
+C1311,Riverbend Retail Group,Manufacturing,R01,Indianapolis,350,2023-01-28,,Active
+C1363,Gateway Construction,Transportation,R01,St. Louis,750,2023-02-05,,Active
+C1309,Lakeside Supply,Construction,R01,St. Louis,750,2023-02-10,,Active
+C1320,Crescent Solutions,Nonprofit,R02,Pittsburgh,250,2023-02-28,,Active
+C1331,Atlas Retail Group,Technology,R04,Phoenix,200,2023-03-04,,Active
+C1328,Prairie Retail Group,Retail,R01,St. Louis,500,2023-03-17,,Active
+C1332,Lakeside Tech,Healthcare,R01,Milwaukee,75,2023-03-18,,Active
+C1359,SunCore Health,Technology,R03,Houston,50,2023-03-19,,Active
+C1334,Summit Solutions,Manufacturing,R04,San Diego,150,2023-03-23,,Active
+C1310,Metro Tech,Technology,R03,Dallas,100,2023-03-25,,Active
+C1326,Evergreen Solutions,Education,R01,Kansas City,350,2023-03-27,,Active
+C1355,Silverline Systems,Healthcare,R02,Philadelphia,350,2023-04-10,,Active
+C1333,Redwood Education Services,Finance,R02,Boston,350,2023-04-12,,Active
+C1357,Cedar Solutions,Manufacturing,R04,San Diego,100,2023-04-18,,Active
+C1327,Horizon Logistics,Construction,R01,St. Louis,750,2023-04-24,,Active
+C1340,Riverbend Energy,Utilities,R04,San Francisco,75,2023-04-27,,Active
+C1352,Ironclad Partners,Nonprofit,R02,New York,250,2023-04-28,,Active
+C1313,Lakeside Construction,Nonprofit,R01,Indianapolis,250,2023-04-28,,Active
+C1306,Oakline Systems,Construction,R01,Milwaukee,350,2023-05-05,,Active
+C1361,Pinecrest Manufacturing,Education,R03,Nashville,350,2023-05-05,,Active
+C1364,MidStates Logistics,Education,R02,Pittsburgh,150,2023-05-16,,Active
+C1303,Evergreen Partners,Technology,R02,Pittsburgh,250,2023-06-01,,Active
+C1354,Northbridge Tech,Construction,R01,Chicago,150,2023-06-03,,Active
+C1347,Oakline Financial,Retail,R03,Houston,150,2023-06-07,,Active
+C1349,Pinecrest Holdings,Nonprofit,R03,Charlotte,75,2023-06-08,,Active
+C1356,Lakeside Energy,Utilities,R01,St. Louis,200,2023-06-13,,Active
+C1312,SunCore Energy,Nonprofit,R04,Seattle,200,2023-06-13,,Active
+C1351,Silverline Partners,Education,R01,Minneapolis,350,2023-06-21,2024-04-01,Churned
+C1316,Granite Health,Manufacturing,R03,Nashville,200,2023-06-24,,Active
+C1323,Riverbend Financial,Education,R02,Hartford,250,2023-06-27,,Active
+C1321,MidStates Health,Healthcare,R02,New York,350,2023-06-30,,Active
+C1336,BluePeak Financial,Technology,R03,Dallas,200,2023-07-18,,Active
+C1344,Capstone Solutions,Finance,R02,Philadelphia,100,2023-07-22,,Active
+C1307,Oakline Construction,Education,R01,Kansas City,350,2023-08-13,,Active
+C1304,Oakline Health,Healthcare,R03,Houston,250,2023-09-07,,Active
+C1305,Ironclad Manufacturing,Nonprofit,R03,New Orleans,1500,2023-09-19,,Active
+C1339,Oakline Industries,Healthcare,R02,Hartford,750,2023-09-22,,Active
+C1338,Capstone Financial,Nonprofit,R03,Houston,350,2023-09-24,,Active
+C1365,Summit Systems,Utilities,R02,Pittsburgh,75,2023-09-26,2024-11-11,Churned
+C1353,Gateway Energy,Nonprofit,R03,Dallas,200,2023-09-28,,Active
+C1319,MidStates Industries,Utilities,R03,Charlotte,100,2023-10-12,,Active
+C1345,Lakeside Manufacturing,Utilities,R01,Indianapolis,350,2023-10-17,,Active
+C1302,Capstone Supply,Retail,R02,Pittsburgh,200,2023-10-20,,Active
+C1358,Horizon Financial,Nonprofit,R03,Dallas,350,2023-10-20,,Active
+C1350,Capstone Systems,Finance,R04,San Diego,200,2023-10-25,,Active
+C1324,BluePeak Construction,Education,R01,Kansas City,1000,2023-10-28,,Active
+C1362,Ironclad Supply,Nonprofit,R01,Milwaukee,500,2023-10-29,,Active
+C1342,Capstone Energy,Utilities,R03,Atlanta,1000,2023-10-29,,Active
+C1341,Silverline Industries,Education,R03,New Orleans,250,2023-10-31,,Active
+C1337,Silverline Logistics,Finance,R02,Boston,200,2023-11-01,,Active
+C1301,Cedar Construction,Construction,R04,Denver,500,2023-11-01,,Active
+C1322,Silverline Financial,Construction,R04,Seattle,250,2023-11-02,,Active
+C1335,Metro Education Services,Manufacturing,R03,Nashville,150,2023-11-06,,Active
+C1317,Horizon Tech,Retail,R03,Houston,750,2023-11-08,,Active
+C1360,Cedar Holdings,Transportation,R01,Kansas City,350,2023-11-16,,Active
+C1318,BrightPath Holdings,Retail,R01,Kansas City,250,2023-11-30,,Active
+C1343,Gateway Solutions,Technology,R03,Nashville,750,2023-12-02,,Active
+C1325,SunCore Financial,Finance,R01,Milwaukee,350,2023-12-07,,Active
+C1348,Cedar Education Services,Nonprofit,R02,Newark,75,2023-12-11,,Active
+C1314,Oakline Logistics,Construction,R01,Chicago,200,2023-12-16,2024-06-21,Churned
+C1330,Evergreen Systems,Healthcare,R01,Minneapolis,350,2023-12-27,,Active
+C1420,Company 391,Education,R02,New York,1000,2024-01-10,,Active
+C1383,Summit Tech,Healthcare,R01,Chicago,200,2024-01-14,,Active
+C1387,Silverline Energy,Utilities,R03,Houston,75,2024-01-25,,Active
+C1385,Ironclad Logistics,Manufacturing,R03,Nashville,200,2024-01-25,,Active
+C1388,Evergreen Manufacturing,Retail,R01,Kansas City,75,2024-01-25,,Active
+C1366,Oakline Manufacturing,Construction,R03,Houston,150,2024-01-27,,Active
+C1405,Company 391,Manufacturing,R04,Los Angeles,1000,2024-02-11,,Active
+C1392,Company 391,Technology,R01,Chicago,200,2024-02-25,2024-11-18,Churned
+C1400,Company 391,Utilities,R02,Newark,750,2024-03-05,,Active
+C1367,Northbridge Energy,Transportation,R02,Hartford,150,2024-03-07,,Active
+C1409,Company 391,Transportation,R04,Phoenix,200,2024-03-19,,Active
+C1399,Company 391,Construction,R03,Charlotte,350,2024-03-19,,Active
+C1410,Company 391,Technology,R03,Atlanta,50,2024-03-27,,Active
+C1397,Company 391,Finance,R02,Newark,100,2024-04-01,,Active
+C1386,Atlas Supply,Finance,R02,Hartford,350,2024-04-04,,Active
+C1394,Company 391,Manufacturing,R02,Newark,1500,2024-04-06,,Active
+C1380,Capstone Logistics,Manufacturing,R02,Boston,250,2024-04-10,,Active
+C1411,Company 391,Manufacturing,R04,Phoenix,75,2024-04-18,,Active
+C1415,Company 391,Construction,R01,St. Louis,1500,2024-04-20,,Active
+C1373,Riverbend Construction,Construction,R01,Indianapolis,1500,2024-04-24,2024-11-26,Churned
+C1406,Company 391,Manufacturing,R04,San Francisco,75,2024-05-08,,Active
+C1384,Capstone Construction,Healthcare,R01,Kansas City,1000,2024-05-09,,Active
+C1372,Evergreen Financial,Education,R04,Denver,1000,2024-05-15,,Active
+C1412,Company 391,Retail,R03,Atlanta,150,2024-05-27,,Active
+C1393,Company 391,Transportation,R01,Indianapolis,150,2024-05-28,,Active
+C1390,Cedar Retail Group,Transportation,R01,Kansas City,75,2024-05-30,,Active
+C1382,Riverbend Education Services,Education,R03,Nashville,100,2024-06-06,2024-12-19,Churned
+C1371,Metro Systems,Manufacturing,R02,Pittsburgh,500,2024-06-06,,Active
+C1381,MidStates Systems,Construction,R04,San Francisco,200,2024-06-14,,Active
+C1398,Company 391,Finance,R02,Hartford,250,2024-07-01,,Active
+C1402,Company 391,Education,R03,Charlotte,250,2024-07-06,,Active
+C1408,Company 391,Finance,R02,New York,200,2024-07-21,,Active
+C1413,Company 391,Nonprofit,R03,Charlotte,100,2024-07-29,,Active
+C1376,Lakeside Holdings,Education,R01,Kansas City,75,2024-08-13,,Active
+C1396,Company 391,Transportation,R03,Atlanta,500,2024-08-18,,Active
+C1375,Riverbend Logistics,Finance,R04,Denver,350,2024-08-18,,Active
+C1404,Company 391,Nonprofit,R03,Charlotte,750,2024-08-20,,Active
+C1377,Riverbend Industries,Technology,R02,New York,75,2024-08-24,,Active
+C1407,Company 391,Utilities,R01,Indianapolis,1000,2024-08-29,,Active
+C1418,Company 391,Construction,R04,San Francisco,500,2024-09-11,,Active
+C1414,Company 391,Nonprofit,R03,New Orleans,500,2024-09-17,,Active
+C1391,Company 391,Healthcare,R01,Milwaukee,250,2024-09-22,,Active
+C1419,Company 391,Healthcare,R03,Atlanta,500,2024-09-25,,Active
+C1403,Company 391,Healthcare,R01,Chicago,750,2024-10-08,,Active
+C1369,Atlas Energy,Construction,R03,New Orleans,200,2024-10-17,,Active
+C1370,Highland Supply,Technology,R01,Kansas City,1500,2024-10-26,,Active
+C1379,Highland Systems,Finance,R01,Indianapolis,500,2024-11-06,,Active
+C1389,Highland Partners,Healthcare,R04,Denver,50,2024-11-11,,Active
+C1374,Beacon Supply,Finance,R04,San Diego,250,2024-11-16,,Active
+C1417,Company 391,Nonprofit,R04,San Diego,350,2024-11-19,,Active
+C1368,Pinecrest Logistics,Finance,R01,St. Louis,200,2024-11-21,,Active
+C1416,Company 391,Manufacturing,R02,Pittsburgh,100,2024-11-24,,Active
+C1378,Redwood Partners,Nonprofit,R04,Denver,150,2024-11-26,,Active
+C1401,Company 391,Manufacturing,R01,Chicago,50,2024-12-03,,Active
+C1395,Company 391,Retail,R01,Indianapolis,100,2024-12-24,,Active
